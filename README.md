@@ -1,2 +1,3 @@
 # Tic Tac Toe
  An application using java swings.
+A two player tic tac toe game which follows all general rules of the game... 
